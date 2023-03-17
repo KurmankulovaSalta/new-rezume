@@ -1,0 +1,151 @@
+@media all and (max-width: 1441px) {
+  .header__link {
+    width: 483px;
+  }
+  .header_form {
+    right: 335px;
+  }
+}
+
+@media all and (max-width: 1026px) {
+  .header__link {
+    width: 85%;
+  }
+  .header {
+    margin-left: 100px;
+  }
+  .navbar__link {
+    margin-right: 80px;
+    margin-top: 20px;
+  }
+  body {
+    text-align: center;
+  }
+  .header__info {
+    width: 40%;
+  }
+  .header__list {
+    width: 30%;
+    font-size: 11px;
+  }
+  .header_form {
+    right: 160px;
+  }
+  #header__list_id {
+    line-height: 17px;
+  }
+  .header__link {
+    width: 275px;
+  }
+  .resume {
+    margin-left: 10px;
+  }
+  .content__info {
+    margin-left: 344px;
+  }
+  .education {
+    margin-left: 344px;
+  }
+  .education__info_2 {
+    font-size: 15px;
+  }
+  h4 {
+    margin-left: 175px;
+  }
+}
+
+@media all and (max-width: 769px) {
+  .header {
+    width: 100%;
+  }
+  .navbar__link {
+    width: 60%;
+  }
+  .header_form {
+    width: 65%;
+    right: 15px;
+  }
+  .header__link {
+    width: 262px;
+  }
+  .content__info {
+    width: 65%;
+    margin-left: 247px;
+  }
+  .education {
+    width: 65%;
+    margin-left: 247px;
+  }
+  .education__info_2 {
+    font-size: 12px;
+  }
+  .education__info_1 {
+    font-size: 12px;
+  }
+  .footer__links {
+    margin-top: 10px;
+  }
+  .footer__info {
+    margin-top: 15px;
+  }
+}
+@media all and (max-width: 426px) {
+  .navbar__content {
+    width: 30%;
+    margin-left: 45px;
+  }
+  .navbar {
+    margin-left: 55px;
+    width: 600px;
+  }
+  .navbar__link {
+    display: flex;
+    flex-direction: column;
+    margin-right: 0px;
+    width: 30%;
+  }
+  .header_form {
+    width: 500px;
+    left: 200px;
+    top: 190px;
+  }
+  .content__info {
+    width: 500px;
+    margin-left: 193px;
+  }
+  h4 {
+    font-size: 18px;
+    margin-top: 16px;
+  }
+  .education {
+    width: 500px;
+    margin-left: 193px;
+    flex-wrap: wrap;
+  }
+  .education__info_1 {
+    font-size: 22px;
+    margin-left: 10px;
+    width: 500px;
+    margin-right: 0px;
+  }
+  .education__info_2 {
+    font-size: 22px;
+    margin-top: 5px;
+  }
+  .footer__info {
+    display: none;
+  }
+  #footer__id {
+    display: none;
+  }
+  .footer__list {
+    margin-left: 210px;
+  }
+  .footer__item {
+    margin: 25px;
+    font-size: 27px;
+  }
+  .header__list_info {
+    margin: 0px;
+  }
+}
